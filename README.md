@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alfredo Colantonio</h1>
-<h3 align="center">A passionate Software Engineer from Italy</h3>
+<h3 align="center">Software Engineer | AI & BPMN Enthusiast</h3>
+<h5 align="center">Experienced software engineer specializing in backend systems, business process automation, AI applications, and computer vision technology. Passionate about transforming complex challenges into elegant, scalable solutions.</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
